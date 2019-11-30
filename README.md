@@ -2,12 +2,12 @@
 
 ![](demo.gif)
 
-This is the code that I used for an extra credit assignment I worked on for my AP Physics class at HBHS. Its made of 1000 3D rigid bodies textured as boxes.  
+This is the code that I used for an extra credit assignment I worked on for my AP Physics class at HBHS. Its made of 1001 3D rigid bodies. 1000 of them are textured as wooden crates, and box number 1001 has my face textured on it (for fun).
 
 # Design
 
 So my AP Physics teacher assigned an extra credit assignment to do a flip book related to physics.  I don't have any artistic ability, so I decided to use the game engine [Godot](https://https://godotengine.org/) and set up a physics related scene. 
-This scene consists of 1000 rigid bodies stacked up in a tower formation and uses the Bullet Physics engine to simulate physics.  To start the scene, I roll a granite ball toward the tower, which causes it to collapse.
+This scene consists of 1001 rigid bodies stacked up in a tower formation and uses the Bullet Physics engine to simulate physics.  To start the scene, I roll a granite ball toward the tower, which causes it to collapse.
 
 **press the spacebar to launch the marble**
 
