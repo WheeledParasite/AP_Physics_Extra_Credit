@@ -1,11 +1,12 @@
 # AP Physics Mech A Extra Credit
 
 ![](demo.gif)
-This is an extra credit assignment I designed for my AP Physics class at HBHS. Its made of 1000 3D rigid bodies textured as boxes.  
+
+This is the code that I used for an extra credit assignment I worked on for my AP Physics class at HBHS. Its made of 1000 3D rigid bodies textured as boxes.  
 
 # Design
 
-So my AP Physics teacher assigned an extra credit assignment to do a flip book related to physics.  I don't have any artistic ability, so I decided to use the game engine ![https://https://godotengine.org/](Godot) and set up a physics related scene. 
+So my AP Physics teacher assigned an extra credit assignment to do a flip book related to physics.  I don't have any artistic ability, so I decided to use the game engine [Godot](https://https://godotengine.org/) and set up a physics related scene. 
 This scene consists of 1000 rigid bodies stacked up in a tower formation and uses the Bullet Physics engine to simulate physics.  To start the scene, I roll a granite ball toward the tower, which causes it to collapse.
 
 **press the spacebar to launch the marble**
